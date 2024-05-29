@@ -9,6 +9,7 @@ Check out the [DEMO](https://vladarskyi.github.io/bike-store-landing-page/) to s
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Mockup](#mockup)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -17,6 +18,10 @@ Check out the [DEMO](https://vladarskyi.github.io/bike-store-landing-page/) to s
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Mockup
+
+You can view the mockup for this project [here](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1).
 
 ## introduction
 
