@@ -4,7 +4,7 @@ Welcome to the Bike Store Landing Page project! This project is a responsive lan
 
 ## Demo
 
-Check out the [DEMO](https://vladarskyi.github.io/bike-landing-page/) to see it in action!
+Check out the [DEMO](https://vladarskyi.github.io/bike-store-landing-page/) to see it in action!
 
 ## Table of Contents
 
