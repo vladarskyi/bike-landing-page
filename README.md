@@ -70,7 +70,7 @@ To run the application locally, use the following command:
    npm start
    ```
 
-This will start the development server and open the application in your default web browser. You can access it at http://localhost:5173/.
+This will start the development server and open the application in your default web browser. You can access it at http://localhost:8080/.
 
 ## Folder Structure
 
